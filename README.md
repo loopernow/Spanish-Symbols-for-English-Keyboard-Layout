@@ -12,7 +12,7 @@ This script is only active when an English keyboard layout is active. While a Sp
 
 ## Acknowledgements
 
-Original inspiration for this script is here: [https://www.autohotkey.com/boards/viewtopic.php?t=82484](https://www.autohotkey.com/boards/viewtopic.php?p=469393#p469393). All I did was tweak it a little; the core idea is Autohotkey user guivho's. My primary contribution is typing double punctuation (; : .) plus an n or u to get a ñ or ü quickly, and pressing Alt plus the ! or ? key to get a ¡ or ¿ quickly. The inspiration for the double semicolon or colon to get ñ or Ñ is the typical Spanish keyboard layout, where the ñ key is next to the l key.
+Original inspiration for this script is here: [https://www.autohotkey.com/boards/viewtopic.php?p=469393#p469393](https://www.autohotkey.com/boards/viewtopic.php?p=469393#p469393). All I did was tweak it a little; the core idea is Autohotkey user guivho's. My primary contribution is typing double punctuation (; : .) plus an n or u to get a ñ or ü quickly, and pressing Alt plus the ! or ? key to get a ¡ or ¿ quickly. The inspiration for the double semicolon or colon to get ñ or Ñ is the typical Spanish keyboard layout, where the ñ key is next to the l key.
 
 AI helped me write some of the code, primarily for a pretty help menu and for the functionality of only being active when an English keyboard layout is active.
 
